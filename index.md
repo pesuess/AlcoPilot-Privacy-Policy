@@ -153,3 +153,7 @@ The calculated values are not medically or legally accurate and must not be used
 ## 10. Changes
 
 This Privacy Policy may be updated if legal or technical changes occur. The current version will always be available within the App.
+
+
+
+
