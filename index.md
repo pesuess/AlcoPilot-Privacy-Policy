@@ -1,5 +1,3 @@
-# Privacy Policy
-
 **Effective date:** 2026-06-17
 
 This Privacy Policy describes how **Alcopilot** (the "App") processes personal data in accordance with the General Data Protection Regulation (GDPR / DSGVO).
