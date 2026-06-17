@@ -2,7 +2,7 @@
 
 **Effective date:** 2025-12-27
 
-This Privacy Policy describes how **BAC Calculator Pro** (the “App”) processes personal data in accordance with the General Data Protection Regulation (GDPR / DSGVO).
+This Privacy Policy describes how **Alcopilot** (the “App”) processes personal data in accordance with the General Data Protection Regulation (GDPR / DSGVO).
 
 ---
 
@@ -12,7 +12,7 @@ The data controller responsible for this App is:
 
 Name: Peter Süßmeier  
 Address: Neutorstraße 37, 55116 Mainz, Germany  
-Email: pelucoding@gmail.com  
+Email: betterlabs.apps@gmail.com
 
 ---
 
